@@ -3,3 +3,4 @@
 *.log
 .vscode/
 
+reports/og-to-apply.csv
